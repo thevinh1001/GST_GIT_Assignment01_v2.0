@@ -7,7 +7,7 @@ public class Calculator {
         return (double) a / b;
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) {git 
         Calculator c = new Calculator();
         System.out.println("plus: "     + c.plus(6,3));
         System.out.println("minus: "    + c.minus(6,3));
